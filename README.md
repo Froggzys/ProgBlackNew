@@ -20,4 +20,23 @@ I then Found a website with a variety of questions on **MongoDB** queries https:
 
 For those ones I ended up having to work through the editor and trying to reverse engineer my understanding of the subject as it was stuff that I was less experienced with in SQL. I would also like to learn how to use and setup **MongoDB** compass on a local system for the sake of making collaborative projects with my peers rather than using the online atlas software. I’m also going to use the **MongoDB** compass to learn how to quickly aggregate data and use the tools correctly compare to just making queries. This is going to be a secondary goal for the next entry.
 
+Entry 3
+After starting entry 4 I realised I forgot to submit this on the 25th of April.
+In this entry I am going to learn to use **MongoDB Compass** for an ease of access way to try aggregate data as well as starting to try integrating **MongoDB** into javascript. When practicing **MongoDB** in my spare time outside of revision I realise I am thinking of the queries like SQL rather than NOSQL and converting it , which ultimately takes up more of my time. Next entry I am going to aim to try and answer some **MongoDB** questions on stack overflow. 
+First of all, I started by installing **MongoDB** on my local system rather than using **MongoDB Atlas** as I felt it would be a new skill that I could say I learnt. I then installed **MongoDB Compass** and inserted some test data I found online to try and start aggregating. I used the video below as a learning resource to learn how to use the software
+https://www.youtube.com/watch?v=XfLeO_LE6ic
+**MongoDB Compass** is a powerful GUI for querying, aggregating, and analysing your **MongoDB** data in a visual environment.
+
+One thing that I love about NOSQL is that the data types of a parameter doesn’t have to be set, aswell as the size of each document in a collection, allowing for a great use of data analysis in showcasing what data is in your database
+
+![image](https://user-images.githubusercontent.com/92587037/166296518-8e8a6157-f2ad-49b1-aac8-733ad26d1708.png)
+
+Next I started looking at this website to learn how to correctly set up **MongoDB** in Javascript . This website proved useful and easy in helping set up **MongoDB**.
+https://www.w3schools.com/nodejs/nodejs_mongodb_create_db.asp
+Here is the code I used to setup my **MongoDB Database**.
+![image](https://user-images.githubusercontent.com/92587037/166296655-9fa24055-9b0f-45ca-a532-eaa22640cd5e.png)
+![image](https://user-images.githubusercontent.com/92587037/166296667-f1f83e1c-e4a0-422a-a448-b035abe0fca4.png)
+After spending an hour or two experimenting I realised I found it to be quite repetitive but ultimately the fundamentals were similar to my experiences in SQL at A Level where I used Visual Basic and I quickly got the hang of it after working out a few errors. I am going to aim to answer questions in stack overflow in the next entry
+
+
 
