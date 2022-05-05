@@ -37,6 +37,14 @@ Here is the code I used to setup my **MongoDB Database**.
 ![image](https://user-images.githubusercontent.com/92587037/166296655-9fa24055-9b0f-45ca-a532-eaa22640cd5e.png)
 ![image](https://user-images.githubusercontent.com/92587037/166296667-f1f83e1c-e4a0-422a-a448-b035abe0fca4.png)
 After spending an hour or two experimenting I realised I found it to be quite repetitive but ultimately the fundamentals were similar to my experiences in SQL at A Level where I used Visual Basic and I quickly got the hang of it after working out a few errors. I am going to aim to answer questions in stack overflow in the next entry
+ 
+Entry 4
+For the last entry I'm going to be focusing on critical analysis and where i went wrong
+
+Main thing i struggled with was the collaborative aspect of it, having little motivation at Durhack due to other factors and not many people to work with on the course means I struggled to find something collaborative to do. Alongside other things such as revision I was also in a car accident that meant I couldn’t sit down at my desk for long periods of time which didn’t help.
+When using Stack Overflow as a beginner I struggled to answer the questions themselves until i developed my skills more and by the time I got an answer someone had already written it and then i just found myself more unmotivated and struggling than I wanted to be when doing this.
+I then proceeded to work on random questions on stack overflow at my own pace, meaning that because I didn’t answer them online  it doesn’t count as much as collaboration
+I also would like to further my experience learning MongoDB in my own time as I believe it to be a critical skill to learn, potentially if I get time to revise and take a certification exam.
 
 
 
